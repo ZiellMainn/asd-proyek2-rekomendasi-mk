@@ -186,6 +186,6 @@ Untuk mencoba kasus lain, cukup buat berkas `mhs_xx.txt` baru dengan format yang
 src/            kode program Java (6 kelas)
 data/           berkas input: matakuliah.csv, prasyarat.csv, mhs_01..03.txt
 contoh_output/  hasil program untuk ketiga berkas mahasiswa
-laporan/        laporan PDF (maks. 3 halaman)
+Laporan/        laporan PDF (maks. 3 halaman)
 docs/           gambar graph prasyarat
 ```
