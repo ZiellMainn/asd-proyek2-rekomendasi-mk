@@ -1,0 +1,18 @@
+File mahasiswa      : data/mhs_02.txt
+Semester berikutnya : ganjil
+
+Daftar MK yang bisa diambil:
+1. PAPB Pengembangan Aplikasi Perangkat Bergerak 3 SKS
+2. MPPI Metodologi Penelitian dan Penulisan Ilmiah 3 SKS
+3. BIND Bahasa Indonesia 2 SKS
+4. PKL Praktik Kerja Lapangan 4 SKS
+Total: 12 SKS
+
+Daftar MK yang belum bisa diambil semester depan:
+JK: belum lulus SO
+IMK: belum lulus SO
+JN: belum lulus SO, JK
+KG: belum lulus SO, IMK
+JST: belum lulus KALJ
+SI: belum lulus KALJ
+SKR: semua MK wajib harus lulus dulu (kurang 16 MK: SO, JK, IMK, PAW, DAA, KI, KALJ, PAPB, JN, KG, JST, SI, MPPI, BIND, CAP, PKL)

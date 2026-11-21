@@ -1,0 +1,16 @@
+File mahasiswa      : data/mhs_03.txt
+Semester berikutnya : ganjil
+
+Daftar MK yang bisa diambil:
+1. PAPB Pengembangan Aplikasi Perangkat Bergerak 3 SKS
+2. JN Jaringan Nirkabel 3 SKS
+3. KG Komputer Grafis 2 SKS
+4. JST Jaringan Saraf Tiruan 3 SKS
+5. SI Statistika Inferensi 2 SKS
+6. MPPI Metodologi Penelitian dan Penulisan Ilmiah 3 SKS
+7. BIND Bahasa Indonesia 2 SKS
+8. PKL Praktik Kerja Lapangan 4 SKS
+Total: 22 SKS
+
+Daftar MK yang belum bisa diambil semester depan:
+SKR: semua MK wajib harus lulus dulu (kurang 8 MK: PAPB, JN, KG, JST, SI, MPPI, BIND, PKL)
