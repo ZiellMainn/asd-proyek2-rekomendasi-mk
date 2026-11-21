@@ -150,7 +150,7 @@ cukup dijawab dengan menelusuri dari MK itu sendiri.
 **Kompleksitas:** satu kali DFS O(V + E); pengecekan semua MK O(V·(V + E)). Untuk V = 37 dan
 E = 19, program selesai seketika.
 
-Penjelasan lengkap ada di [laporan PDF](laporan/Laporan_Proyek2_ASD.pdf).
+Penjelasan lengkap ada di [laporan PDF](Laporan/Laporan%20Proyek%202%20ASD.pdf).
 
 ---
 
