@@ -16,9 +16,9 @@ Mata kuliah: Algoritma dan Struktur Data, Teknik Informatika FILKOM UB.
 
 | No | Nama | NIM |
 |---|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 | Falisha Quinara Ramadhani | 255150207111005 |
+| 2 | Ajrina Dinan Apissa | 255150207111014 |
+| 3 | Nabillah Indah Hikmah Sari | 255150207111011 |
 | 4 | | |
 
 ---
